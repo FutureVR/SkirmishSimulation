@@ -1,5 +1,6 @@
 # SkirmishSimulation
 
 
+![Screenshot](screenshot.png)
 
 
