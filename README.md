@@ -1,7 +1,3 @@
 # SkirmishSimulation
 
-
-![ScreenShot](https://raw.github.com/FutureVR/SkirmishSimulation/master/media/skirmish_1.PNG)
-<img src="https://raw.github.com/FutureVR/SkirmishSimulation/master/media/skirmish_1.PNG" />
-
-
+Link to Project Page: https://github.com/FutureVR/SkirmishSimulation
